@@ -10,7 +10,8 @@
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
         <!-- Styles -->
-        @vite(['resources/css/filament/filament.css', 'resources/js/app.js'])
+        {{-- @vite(['resources/css/filament/filament.css', 'resources/js/app.js']) --}}
+        @vite(['resources/css/app/app.css', 'resources/js/app.js'])
 
         <style>
             body {

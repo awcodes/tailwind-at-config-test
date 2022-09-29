@@ -12,7 +12,11 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/typography": "^0.5.7",
         "autoprefixer": "^10.4.12",
-        "tailwindcss": "^0.0.0-insiders.52ab315"
+        "postcss-import": "^15.0.0",
+        "tailwindcss": "^0.0.0-insiders.52ab315",
+        "tippy.js": "^6.3.7"
     }
 }
